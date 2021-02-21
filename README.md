@@ -12,9 +12,10 @@ What things you need to install the software and how to install them
 
 1. Node.js
   - Install from [their website](https://nodejs.org/en/download/)
+  - make sure your version is at least v18.8.0
 
 ```
-Give examples
+node -v
 ```
 
 ### Installing
